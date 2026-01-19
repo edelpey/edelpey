@@ -54,19 +54,7 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edelpey/edelpey/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<img src="https://raw.githubusercontent.com/edelpey/edelpey/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Emile_dlp">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Emile_dlp&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=edelpey.edelpey&"  />
