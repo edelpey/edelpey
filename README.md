@@ -23,12 +23,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+  #💻 Academic Projects :
 
 
-#💻 Academic Projects :
-
-<div>
   SAE 1.01 & 1.02: Wordle-like Mini-Game
     -Developed a text-based puzzle game in Python similar to Motus (Wordle).
     -Team of 2.
@@ -44,7 +41,11 @@
   SAE 1.05: Requirements Analysis
     -Conducted requirements gathering and drafted specifications for a fictional university library software.
     -Team of 2.
+
 </div>
+
+
+
 
 # 🎵 Music:
 
