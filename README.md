@@ -26,7 +26,8 @@
 </div>
 
 
-#💻 Academic Projects
+#💻 Academic Projects :
+
 SAE 1.01 & 1.02: Wordle-like Mini-Game
   -Developed a text-based puzzle game in Python similar to Motus (Wordle).
   -Team of 2.
