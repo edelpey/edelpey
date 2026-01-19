@@ -3,21 +3,14 @@
 
 **edelpey/edelpey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💫 About Me:
+🔭 I’m currently student at Limoges University<br>📖 BUT 1<br>🌱 I’m currently learning computer science<br>📍 IUT of Limousin, Limoges France
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<p align="left">Hello World!!</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_emile_dlp_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emile.delpey@etu.unilim.fr) 
 
-###
-
+# 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
@@ -31,6 +24,22 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=edelpey&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=edelpey&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edelpey&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=edelpey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=edelpey&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+###
+
+
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0buzs8068lxwhr0qti26mwtf0)
@@ -42,7 +51,5 @@ Here are some ideas to get you started:
 </div>
 
 ###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=edelpey.edelpey&"  />
-</div>
+
 
