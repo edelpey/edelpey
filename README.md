@@ -24,15 +24,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-
-
-
-# 🎵 Music:
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0buzs8068lxwhr0qti26mwtf0)
-
 # 💻 Academic Projects :
 
 
@@ -51,6 +42,15 @@
   SAE 1.05: Requirements Analysis
     -Conducted requirements gathering and drafted specifications for a fictional university library software.
     -Team of 2.
+
+
+
+
+# 🎵 Music:
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0buzs8068lxwhr0qti26mwtf0)
+
 
 
 <div>
