@@ -28,21 +28,23 @@
 
 #💻 Academic Projects :
 
-SAE 1.01 & 1.02: Wordle-like Mini-Game
-  -Developed a text-based puzzle game in Python similar to Motus (Wordle).
-  -Team of 2.
-
-SAE 1.03: System Administration & Scripting
-  -Configured a Virtual Machine and wrote Bash scripts to manage a mock library system.
-  -Team of 2.
+<div>
+  SAE 1.01 & 1.02: Wordle-like Mini-Game
+    -Developed a text-based puzzle game in Python similar to Motus (Wordle).
+    -Team of 2.
   
-SAE 1.04: Database & Data Analysis
-  -Designed and implemented a relational database (SQL) for data analysis purposes.
-  -Team of 2.
-
-SAE 1.05: Requirements Analysis
-  -Conducted requirements gathering and drafted specifications for a fictional university library software.
-  -Team of 2.
+  SAE 1.03: System Administration & Scripting
+    -Configured a Virtual Machine and wrote Bash scripts to manage a mock library system.
+    -Team of 2.
+    
+  SAE 1.04: Database & Data Analysis
+    -Designed and implemented a relational database (SQL) for data analysis purposes.
+    -Team of 2.
+  
+  SAE 1.05: Requirements Analysis
+    -Conducted requirements gathering and drafted specifications for a fictional university library software.
+    -Team of 2.
+</div>
 
 # 🎵 Music:
 
