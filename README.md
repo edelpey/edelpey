@@ -23,7 +23,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  #💻 Academic Projects :
+</div>
+
+
+
+
+# 🎵 Music:
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0buzs8068lxwhr0qti26mwtf0)
+
+# 💻 Academic Projects :
 
 
   SAE 1.01 & 1.02: Wordle-like Mini-Game
@@ -42,17 +52,6 @@
     -Conducted requirements gathering and drafted specifications for a fictional university library software.
     -Team of 2.
 
-</div>
-
-
-
-
-# 🎵 Music:
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0buzs8068lxwhr0qti26mwtf0)
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
