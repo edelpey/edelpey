@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_emile_dlp_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emile.delpey@etu.unilim.fr) 
 
-# 💻 Tech Stack:
+# 💻 Tech :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
